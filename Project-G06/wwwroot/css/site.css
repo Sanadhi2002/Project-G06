@@ -37,7 +37,7 @@ body {
     overflow: hidden;
 }
 
-    .Mynavbar_dropdown .Mynavbar_dropbtn {
+ .Mynavbar_dropdown .Mynavbar_dropbtn {
         font-size: 16px;
         border: none;
         outline: none;
@@ -48,7 +48,7 @@ body {
         margin: 0;
     }
 
-    .Mynavbar a:hover, .Mynavbar_dropdown:hover .Mynavbar_dropbtn {
+  .Mynavbar a:hover, .Mynavbar_dropdown:hover .Mynavbar_dropbtn {
         background-color: red;
     }
 

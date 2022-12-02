@@ -7,4 +7,8 @@
     <RootNamespace>Project_G06</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
 </Project>
